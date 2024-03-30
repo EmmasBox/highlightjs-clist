@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-clist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLIST syntax highlighting for highlight.js",
   "main": "src/clist.js",
   "types": "src/clist.d.ts",
