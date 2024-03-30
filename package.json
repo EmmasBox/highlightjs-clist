@@ -1,0 +1,29 @@
+{
+  "name": "highlightjs-clist",
+  "version": "0.1.0",
+  "description": "CLIST syntax highlighting for highlight.js",
+  "main": "src/clist.js",
+  "types": "src/clist.d.ts",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmasBox/highlightjs-clist.git"
+  },
+  "keywords": [
+    "CLIST",
+    "Command List",
+    "zOS",
+    "hljs",
+    "highlightjs",
+    "highlight.js"
+  ],
+  "author": "Emma Skovgaard",
+  "license": "GPL-3.0 license",
+  "bugs": {
+    "url": "https://github.com/EmmasBox/highlightjs-jcl/issues"
+  },
+  "devDependencies": {
+    "highlight.js": "^11.6.0"
+  }
+}
