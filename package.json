@@ -21,7 +21,7 @@
   "author": "Emma Skovgaard",
   "license": "GPL-3.0 license",
   "bugs": {
-    "url": "https://github.com/EmmasBox/highlightjs-jcl/issues"
+    "url": "https://github.com/EmmasBox/highlightjs-clist/issues"
   },
   "devDependencies": {
     "highlight.js": "^11.6.0"
