@@ -73,7 +73,7 @@ export default function (hljs) {
             },
             {
                 scope: 'operator',
-                begin: /(=|\*)/
+                begin: /(\+| - |\*\*|\*|\/\/|\/|\**\|\*\|>=|<=|¬<|¬>|>|<|¬==|=|¬=|EQ|NE|LT|GT|LE|GE|NG|NL|AND|&&|OR)/
             },
             {
                 scope: 'number',
